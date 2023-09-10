@@ -5,7 +5,12 @@ In this video we talked about what Pillars and Grains are in Salt and how to use
 ![Salt Project Pillars and Grains](pillars_and_grains.png)
 
 ## Documentation Links
-
+- [Grains Execution Module](https://docs.saltproject.io/en/latest/ref/modules/all/salt.modules.grains.html#module-salt.modules.grains)
+- [Pillar Execution Module](https://docs.saltproject.io/en/latest/ref/modules/all/salt.modules.pillar.html#module-salt.modules.pillar)
+- [Grains State Module](https://docs.saltproject.io/en/latest/ref/states/all/salt.states.grains.html#module-salt.states.grains)
+- [SLS Template Variable Reference](https://docs.saltproject.io/en/latest/ref/states/vars.html)
+- [Targeting Minions](https://docs.saltproject.io/en/latest/topics/targeting/index.html)
+- [Targeting Minions with Compound Query](https://docs.saltproject.io/en/latest/topics/targeting/compound.html#targeting-compound)
 
 ## Grains CLI
 ```
