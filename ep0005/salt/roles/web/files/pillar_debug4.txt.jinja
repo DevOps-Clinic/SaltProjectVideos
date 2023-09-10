@@ -1,0 +1,6 @@
+Pillar:
+foo: {{ pillar['foo'] }}
+server_name: {{ salt['pillar.get']('web:server_name') }}
+server_alias: {{ salt['pillar.get']('web:server_alias') }}
+website version: {{ salt['pillar.get']('web:website:version') }}
+{{ salt['pillar.get']('fooversion', 'my default value') }}
