@@ -1,0 +1,8 @@
+Grains:
+Hostname: {{ salt['grains.get']('host') }}
+Domain: {{ salt['grains.get']('domain') }}
+FQDN: {{ salt['grains.get']('fqdn') }}
+IP Address: {{ salt['grains.get']('ipv4') }}
+IP Address: {{ salt['grains.get']('ipv4')[0] }}
+{{ grains["osfinger"] }}
+{{ salt['grains.get']('osfingerversion', 'my default value') }}
