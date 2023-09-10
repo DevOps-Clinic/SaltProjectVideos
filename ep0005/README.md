@@ -2,6 +2,8 @@
 
 In this video we talked about what Pillars and Grains are in Salt and how to use them.
 
+[/pillars_and_grains.png|Salt Project Pillars and Grains]]
+
 ## Documentation Links
 
 
