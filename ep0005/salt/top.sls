@@ -1,0 +1,4 @@
+base:
+
+  '*web*.*':
+    - roles.web
