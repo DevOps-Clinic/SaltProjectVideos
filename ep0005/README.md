@@ -2,7 +2,7 @@
 
 [Salt Project Pillars and Grains YouTube Video](https://youtube.com)
 
-In this video we talked about what Pillars and Grains are in Salt and how to use them.
+In this video we talked about what Pillars and Grains are in Salt and how to use them. Salt States are located in the salt folder, and Pillar data is located in the pillar folder.
 
 ![Salt Project Pillars and Grains](pillars_and_grains.png)
 
