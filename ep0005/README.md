@@ -1,5 +1,7 @@
 # DevOps Clinic - Notes for Salt Project Pillars and Grains
 
+[Salt Project Pillars and Grains YouTube Video](https://youtube.com)
+
 In this video we talked about what Pillars and Grains are in Salt and how to use them.
 
 ![Salt Project Pillars and Grains](pillars_and_grains.png)
